@@ -1,0 +1,80 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\.0b9b12a26e84348e4cb11993cffb951bdcecddd6-audit.json",
+    "files": [
+        {
+            "date": 1692383966393,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-18-08-19-success.log",
+            "hash": "78f75a71a98c9cd80065a48219620e8c46fc0a2ceca1ef751b6efd6b195a122c"
+        },
+        {
+            "date": 1692465472819,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-19-08-18-success.log",
+            "hash": "80cf68f2a9d933bcc2f2065bd7c701ff3f1b8e7901f532dbe76fb869bfa0f4e8"
+        },
+        {
+            "date": 1692470805308,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-19-08-19-success.log",
+            "hash": "88a09e77a156593a05b3dce599059393c9168d6fb200fe8d9821bb77b4ea5ca1"
+        },
+        {
+            "date": 1692471826799,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-19-08-20-success.log",
+            "hash": "360d39db6b17aa409bd4e7a55caa6dd22533d15ae20c984c31be1dd23884e71e"
+        },
+        {
+            "date": 1692528652852,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-20-08-11-success.log",
+            "hash": "cd34dd40cb517a9ba8ac8f919c47eee8e36022315a89ca42d604ee78720cef00"
+        },
+        {
+            "date": 1692530004270,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-20-08-12-success.log",
+            "hash": "434019bca31e08bb35073e3ef2bd490c900e78968af12d3cbf7bf696527dc7ba"
+        },
+        {
+            "date": 1692532821775,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-20-08-13-success.log",
+            "hash": "fbb18e62e53e6eb77ea1042ac2d5fa974c868ead9050c1288cfac35154a8ae6e"
+        },
+        {
+            "date": 1692541459605,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-20-08-15-success.log",
+            "hash": "d41546a2eb5c1a52f36125f7870b2547809e314844d9825c02f748fabfe5963c"
+        },
+        {
+            "date": 1692546038345,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-20-08-16-success.log",
+            "hash": "3222c33a57dfd3fd4c2f3f649e655e4c9a24e345373a88696a3b299f6bc81af1"
+        },
+        {
+            "date": 1692549569811,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-20-08-17-success.log",
+            "hash": "313178bdbe6bf82d2a2ab0f163de68122de0191a26f001c2026e9ea3cba4a4b4"
+        },
+        {
+            "date": 1692550924708,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-20-08-18-success.log",
+            "hash": "3e0eadf69461c4ca0ce33996c552c8f877a17939926fe30ec8849f9204ab930c"
+        },
+        {
+            "date": 1692780921027,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-23-08-09-success.log",
+            "hash": "41c8376357ce1c309f100084800c718bb2ce0f465c8e85d05337da93d23b0b39"
+        },
+        {
+            "date": 1692781229111,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-23-08-10-success.log",
+            "hash": "a1289620673b2d16381b8b31f449d5112112ce481e4743ec5461e9842cbeeeee"
+        },
+        {
+            "date": 1692786469200,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-23-08-11-success.log",
+            "hash": "304e1d236961087c4345b6adb63cf10fb6e6ec19102b0164748bb9a614130b18"
+        }
+    ],
+    "hashType": "sha256"
+}

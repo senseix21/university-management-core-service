@@ -1,0 +1,80 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\.9e628ca60293f91e86154f901f90abdbd29a9fb9-audit.json",
+    "files": [
+        {
+            "date": 1692383966398,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-18-08-19-error.log",
+            "hash": "86b9d814007d38a9e29a752b5bfc881e07b20f9531fa099fec7a7a0839409046"
+        },
+        {
+            "date": 1692465472825,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-19-08-18-error.log",
+            "hash": "2911e69bafdf53e2d9f6ee8568232594be839da929c43de1aa10ee749b290dd3"
+        },
+        {
+            "date": 1692470805317,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-19-08-19-error.log",
+            "hash": "4e3ed67c590e62c6d7be7cbf6984d7d9933b18fb42d888112e1589d2a41e3ef5"
+        },
+        {
+            "date": 1692471826805,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-19-08-20-error.log",
+            "hash": "10f8e9819bb36ff2a745231213b6c5ae6a58ceaa8d8f42aa52611820787a491f"
+        },
+        {
+            "date": 1692528652861,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-20-08-11-error.log",
+            "hash": "b0495930df5a406866fafeb9b4532edbd0081782cc632dcb4886f18cd729c003"
+        },
+        {
+            "date": 1692530004276,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-20-08-12-error.log",
+            "hash": "64b52f76687278a66dd4d5de3d7cccaad9ae5456158ee3d0151e8d1f7b70aaa9"
+        },
+        {
+            "date": 1692532821785,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-20-08-13-error.log",
+            "hash": "fe5d4159e376842b19424f2fc6ffa4d84affb9742bace8542c2f5f072e564320"
+        },
+        {
+            "date": 1692541459612,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-20-08-15-error.log",
+            "hash": "37274259932570353e4c7dd050fd1cbebafe01e33005cb3dc29840f1cb008b10"
+        },
+        {
+            "date": 1692546038353,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-20-08-16-error.log",
+            "hash": "b415375217f671ba06df7cc913801cdd2d9b4a202e135c1182a7cd28a4703a61"
+        },
+        {
+            "date": 1692549569818,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-20-08-17-error.log",
+            "hash": "640d2a25a9c86e85b593c474b1ec3f5f5de57f46be7e95b2a2f1627df27fc434"
+        },
+        {
+            "date": 1692550924714,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-20-08-18-error.log",
+            "hash": "46a033d334e161908f16e0f36c7e1fda7851586e30ea7b5319f510c28af53c8d"
+        },
+        {
+            "date": 1692780921039,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-23-08-09-error.log",
+            "hash": "0fc60d9941b2cf20a18aeff8231ca7c0efde26016f9621adeb7a263e4a0d0b75"
+        },
+        {
+            "date": 1692781229120,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-23-08-10-error.log",
+            "hash": "a277ab976cd783f6cab1778ec5aeb76994eb3ff42d2ff5f259fdce469ddff36c"
+        },
+        {
+            "date": 1692786469208,
+            "name": "C:\\Users\\senseiX\\Dev\\SQL-Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-23-08-11-error.log",
+            "hash": "cd720b81fedf343f4be089a47ccbf51015090d1636553d0c7bc92fa3b2fc207b"
+        }
+    ],
+    "hashType": "sha256"
+}
